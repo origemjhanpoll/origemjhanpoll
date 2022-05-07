@@ -1,4 +1,4 @@
-![top doodle](/files/top.png)
+![top doodle](/files/demo.jpeg)
 
 <div align='center'>
   <p>I'm <strong>Jean Paul</strong>, a Software <b>Mobile Developer / Artist 3D / Designer UI</b> interested in leaving something unique and inspiring wherever I go.</p>
