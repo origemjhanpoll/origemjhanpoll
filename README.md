@@ -39,13 +39,13 @@
     <img src='https://img.shields.io/static/v1?label=&message=Dart&style=flat-square&logo=dart&logoColor=2496ed&color=black' />
   </a>
 </div>
+<br>
 
 <div align='center'>
 
 **FRAMEWORKS**
 
 </div>
-
 <div align='center'>
   <a href='https://reactnative.dev' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=React Native&style=flat-square&logo=react&color=black' />
@@ -60,6 +60,7 @@
     <img src='https://img.shields.io/static/v1?label=&message=Android&style=flat-square&logo=android&logoColor=3DDC84&color=black' />
   </a>
 </div>
+<br>
 
 <div align='center'>
 
