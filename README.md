@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
 <!--
 **origemjhanpoll/origemjhanpoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
