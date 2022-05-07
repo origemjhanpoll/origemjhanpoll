@@ -1,9 +1,3 @@
-<style type="text/css">
-  body{
-  font-size: 14pt;
-}
-</style>
-
 <h1 align="center">
   #origemjhanpoll
   </h1>
