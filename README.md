@@ -89,5 +89,3 @@
   </a>
 
 </div>
-
-![bottom doodle](/files/bottom.png)
