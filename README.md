@@ -11,8 +11,7 @@
 ![top doodle](/files/demo.jpeg)
 
 <div align='center'>
-  <h2>I'm <strong>Jean Paul</strong>, a <b>Mobile Developer / Artist 3D / Designer UI</b> 
-  </h2>
+  <h2>I'm <strong>Jean Paul</strong>, a <b>Mobile Developer / Artist 3D / Designer UI</b></h2>
   <h4>
     interested in leaving something unique and inspiring wherever I go.
   </h4>
