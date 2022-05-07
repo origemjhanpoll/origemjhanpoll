@@ -5,17 +5,9 @@
 ![top doodle](/files/demo.jpeg)
 
 <div align='center'>
-  <h2>I'm <strong>Jean Paul</strong>, a Software <b>Mobile Developer / Artist 3D / Designer UI</b> interested in leaving something unique and inspiring wherever I go.</h2>
+  <h2>I'm <strong>Jean Paul</strong>, a <b>Mobile Developer / Artist 3D / Designer UI</b> <br/> interested in leaving something unique and inspiring wherever I go.</h2>
   <p>I really like animation and therefore I love micro-interactions.</p>
-
 </div>
-
-<br>
-
-<div align='center'>
-
-</div>
-
 <br>
 
 <div align='center'>
@@ -27,6 +19,7 @@
   </a>
 
 </div>
+<br>
 
 <div align='center'>
 
@@ -42,6 +35,7 @@
     <img src='https://img.shields.io/static/v1?label=&message=Dart&style=flat-square&logo=dart&logoColor=2496ed&color=black' />
   </a>
 </div>
+<br>
 
 <div align='center'>
 
@@ -63,6 +57,7 @@
     <img src='https://img.shields.io/static/v1?label=&message=Android&style=flat-square&logo=android&logoColor=3DDC84&color=black' />
   </a>
 </div>
+<br>
 
 <div align='center'>
 
@@ -93,7 +88,3 @@
   </a>
 
 </div>
-
-<br/>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=origemjhanpoll&langs_count=10&layout=compact&hide_title=true&theme=codeSTACKr)
