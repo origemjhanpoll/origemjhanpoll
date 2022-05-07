@@ -93,3 +93,7 @@
   </a>
 
 </div>
+
+<br/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=origemjhanpoll&langs_count=10&layout=compact&hide_title=true&theme=codeSTACKr)
