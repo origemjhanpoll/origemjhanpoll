@@ -1,3 +1,9 @@
+<style type="text/css">
+  body{
+  font-size: 14pt;
+}
+</style>
+
 <h1 align="center">
   #origemjhanpoll
   </h1>
@@ -5,10 +11,12 @@
 ![top doodle](/files/demo.jpeg)
 
 <div align='center'>
-  <h2>I'm <strong>Jean Paul</strong>, a <b>Mobile Developer / Artist 3D / Designer UI</b> <br/> interested in leaving something unique and inspiring wherever I go.</h2>
-  <p>I really like animation and therefore I love micro-interactions.</p>
+  <h2>I'm <strong>Jean Paul</strong>, a <b>Mobile Developer / Artist 3D / Designer UI</b> 
+  </h2>
+  <h4>
+    interested in leaving something unique and inspiring wherever I go.
+  </h4>
 </div>
-<br>
 
 <div align='center'>
   <a href='https://www.linkedin.com/in/origemjhanpoll' target='_blank' rel='noopener' rel='noreferrer'>
@@ -20,6 +28,9 @@
 
 </div>
 <br>
+<div align='center'>
+ <p>I really like animation and therefore I love micro-interactions.</p>
+</div>
 
 <div align='center'>
 
