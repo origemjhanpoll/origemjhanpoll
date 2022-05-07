@@ -11,11 +11,10 @@
 ![top doodle](/files/demo.jpeg)
 
 <div align='center'>
-  <h2>I'm <strong>Jean Paul</strong>, a <b>Mobile Developer / Artist 3D / Designer UI</b></h2>
-  <h4>
-    interested in leaving something unique and inspiring wherever I go.
-  </h4>
+  <h2>I'm <strong>Jean Paul</strong>, a <b>Mobile Developer / Artist 3D / Designer UI</b> <br/> interested in leaving something unique and inspiring wherever I go.</h2>
+ 
 </div>
+<br>
 
 <div align='center'>
   <a href='https://www.linkedin.com/in/origemjhanpoll' target='_blank' rel='noopener' rel='noreferrer'>
@@ -30,6 +29,7 @@
 <div align='center'>
  <p>I really like animation and therefore I love micro-interactions.</p>
 </div>
+<br>
 
 <div align='center'>
 
@@ -45,7 +45,6 @@
     <img src='https://img.shields.io/static/v1?label=&message=Dart&style=flat-square&logo=dart&logoColor=2496ed&color=black' />
   </a>
 </div>
-<br>
 
 <div align='center'>
 
@@ -67,7 +66,6 @@
     <img src='https://img.shields.io/static/v1?label=&message=Android&style=flat-square&logo=android&logoColor=3DDC84&color=black' />
   </a>
 </div>
-<br>
 
 <div align='center'>
 
