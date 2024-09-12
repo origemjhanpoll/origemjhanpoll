@@ -2,7 +2,7 @@
   #origemjhanpoll
   </h1>
 
-![top doodle](/files/demo.jpeg)
+![top doodle](demo.jpeg)
 
 <div align='center'>
   <h2>I'm <strong>Jean Paul</strong>, a <b>Mobile Developer / Artist 3D / Designer UI</b> <br/> interested in leaving something unique and inspiring wherever I go.</h2>
