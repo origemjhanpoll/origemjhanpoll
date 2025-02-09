@@ -41,9 +41,9 @@ I have a keen eye for animations and micro-interactions, which elevate user expe
 ---
 
 ## 🌟 Featured Projects
+🔹 **[Flutter Motel Nearby Test](https://github.com/origemjhanpoll/flutter_motels_nearby_test)** - A Flutter test project for Motels Nearby.  
 🔹 **[Flutter GS3 Test](https://github.com/origemjhanpoll/flutter_gs3_test)** - A Flutter test project for GS3.  
-🔹 **[Flutter Petize Test](https://github.com/origemjhanpoll/flutter_petize_test)** - A Flutter test project for Petize.  
-🔹 **[Flutter Tractian Test](https://github.com/origemjhanpoll/flutter_tractian_test)** - A Flutter test project for Tractian.  
+🔹 **[Flutter Petize Test](https://github.com/origemjhanpoll/flutter_petize_test)** - A Flutter test project for Petize.    
 🔹 **[Flutter Yandeh Test](https://github.com/origemjhanpoll/flutter_yandeh_test)** - A Flutter test project for Yandeh.  
 🔹 **[More Repositories](https://github.com/origemjhanpoll?tab=repositories)**
 
