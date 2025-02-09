@@ -1,11 +1,11 @@
-# 🌍 Jean Paul | Mobile Developer & UI/UX Designer
+# 🌍 Jean Paul | Mobile Developer
 
 ![top doodle](background.jpeg)
 
 ## 👋 Hello, World!
-I'm **Jean Paul**, a passionate **Mobile Developer** with strong expertise in **Flutter** and **React Native**. I combine my skills in **UI/UX Design** with **3D Art** to create applications that are not just functional but also visually appealing and engaging.
+I'm **Jean Paul**, a passionate **Mobile Developer** specializing in **Flutter** and **React Native**. I craft high-performance applications with a strong focus on **UI/UX Design**, ensuring seamless user experiences and engaging interfaces.
 
-I have a keen eye for animations and micro-interactions, which elevate user experience to the next level. My goal is to leave something unique and inspiring wherever I go.
+I have a keen eye for **animations** and **micro-interactions**, elevating applications beyond functionality to create truly immersive experiences. My goal is to build impactful solutions that make a difference.
 
 📫 **Contact me:** origemjhanpoll@gmail.com  
 🌎 **Portfolio:** [origemjhanpoll.github.io](https://origemjhanpoll.github.io)
@@ -23,7 +23,6 @@ I have a keen eye for animations and micro-interactions, which elevate user expe
 ### **🎨 UI/UX & Design**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 
 ### **🛠️ Development & Workflow**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -57,8 +56,12 @@ I have a keen eye for animations and micro-interactions, which elevate user expe
   <a href='https://instagram.com/origemjhanpoll' target='_blank'>
     <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'/>
   </a>
+  <a href='https://t.me/origemjhanpoll' target='_blank'>
+    <img src='https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white'/>
+  </a>
 </div>
 
 ---
 
 🔹 **"Bringing ideas to life through code & design."** ✨
+
