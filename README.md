@@ -40,8 +40,8 @@ I have a keen eye for **animations** and **micro-interactions**, elevating appli
 ---
 
 ## 🌟 Featured Projects
-🔹 **[Flutter Posts Test](https://github.com/origemjhanpoll/flutter_posts_test)** - A Flutter test project for Posts. 
-🔹 **[Flutter Crypto Test](https://github.com/origemjhanpoll/flutter_crypto_test)** - A Flutter test project for Cryptos. 
+🔹 **[Flutter Posts Test](https://github.com/origemjhanpoll/flutter_posts_test)** - A Flutter test project for Posts.  
+🔹 **[Flutter Crypto Test](https://github.com/origemjhanpoll/flutter_crypto_test)** - A Flutter test project for Cryptos.  
 🔹 **[Flutter Motel Nearby Test](https://github.com/origemjhanpoll/flutter_motels_nearby_test)** - A Flutter test project for Motels Nearby.  
 🔹 **[Flutter GS3 Test](https://github.com/origemjhanpoll/flutter_gs3_test)** - A Flutter test project for GS3.  
 🔹 **[Flutter Petize Test](https://github.com/origemjhanpoll/flutter_petize_test)** - A Flutter test project for Petize.    
